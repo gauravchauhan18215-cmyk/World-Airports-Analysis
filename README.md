@@ -1,30 +1,29 @@
 # ✈️ Airport Operations Performance Dashboard
 
-## 📌 Project Overview
-
-This project is an interactive Power BI dashboard developed to analyze airport operations and flight performance. It provides insights into on-time performance, delays, cancellations, airline performance, airport traffic, and operational efficiency through dynamic visualizations and KPIs.
-
-The dashboard enables stakeholders to identify operational bottlenecks, monitor airline performance, and support data-driven decision making.
+An interactive **Power BI dashboard** built to analyze airport operations and flight performance. The dashboard provides insights into flight volumes, on-time performance, delays, cancellations, airline performance, and airport activity through interactive visualizations and KPIs.
 
 ---
 
-## 📊 Dashboard Preview
+## 📌 Project Overview
 
-> Dashboard screenshots are available in the **images** folder.
+Airport operations involve monitoring thousands of flights every day. This dashboard consolidates operational data into a single interactive report, enabling users to quickly identify trends, compare airline performance, analyze delays, and monitor airport efficiency.
+
+The project demonstrates how Power BI can transform raw operational data into meaningful business insights.
 
 ---
 
 ## 🎯 Business Objectives
 
-- Monitor airport operational performance
-- Analyze flight delays and cancellations
-- Track airline-wise performance
-- Evaluate airport traffic trends
-- Improve operational decision-making through interactive dashboards
+- Monitor overall airport operations
+- Track on-time, delayed, and cancelled flights
+- Compare airline performance
+- Analyze airport traffic
+- Identify delay and cancellation trends
+- Provide an interactive dashboard for operational monitoring
 
 ---
 
-## 📈 Key KPIs
+## 📊 Key KPIs
 
 - Total Flights
 - On-Time Flights
@@ -35,30 +34,65 @@ The dashboard enables stakeholders to identify operational bottlenecks, monitor 
 - Cancellation Rate
 - Flights by Airport
 - Flights by Airline
-- Delay by Reason
 - Monthly Flight Trends
+
+---
+
+## 📈 Dashboard Features
+
+- Executive KPI Cards
+- Interactive Slicers
+- Airline Performance Analysis
+- Airport Performance Analysis
+- Delay Analysis
+- Cancellation Analysis
+- Monthly Trend Analysis
+- Interactive Charts and Visualizations
 
 ---
 
 ## 🛠 Tools & Technologies
 
-- Power BI
-- Power Query
+- Microsoft Power BI
 - DAX
-- Data Modeling
 - Microsoft Excel
 
 ---
 
-## 📊 Dashboard Features
+## 📂 Dataset
 
-- Executive KPI Dashboard
-- Delay Analysis
-- Airline Performance Analysis
-- Airport-wise Performance
-- Cancellation Analysis
-- Interactive Filters & Slicers
-- Drill-through Navigation
+The dashboard was developed using a single Excel dataset containing airport operational and flight performance information.
+
+---
+
+## 📷 Dashboard Preview
+
+Dashboard screenshots are available in the **images** folder.
+
+---
+
+## 💡 Business Insights
+
+The dashboard enables users to answer questions such as:
+
+- Which airports handle the highest flight volume?
+- Which airlines achieve the best on-time performance?
+- What percentage of flights are delayed or cancelled?
+- How do flight operations vary over time?
+- Which airports require operational attention?
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Power BI Dashboard Development
+- Data Visualization
+- KPI Design
+- DAX
+- Business Intelligence
+- Data Analysis
+- Interactive Reporting
+- Analytical Thinking
 
 ---
 
@@ -70,33 +104,10 @@ Airport-Operations-Performance-Dashboard/
 ├── airport_project.pbix
 ├── README.md
 └── images/
+    ├── dashboard-overview.png
+    ├── airline-performance.png
+    ├── airport-analysis.png
 ```
-
----
-
-## 💡 Business Insights
-
-The dashboard helps answer questions such as:
-
-- Which airports experience the highest delays?
-- Which airlines maintain the best on-time performance?
-- What are the primary reasons for flight delays?
-- How do cancellations vary across airports?
-- Which operational areas require improvement?
-
----
-
-## 🚀 Skills Demonstrated
-
-- Data Cleaning
-- Data Modeling
-- Power Query
-- DAX
-- KPI Design
-- Dashboard Development
-- Data Visualization
-- Business Intelligence
-- Analytical Thinking
 
 ---
 
@@ -106,5 +117,8 @@ The dashboard helps answer questions such as:
 
 Business Analyst | Data Analyst
 
-GitHub:
+**GitHub:**  
 https://github.com/gauravchauhan18215-cmyk
+
+**LinkedIn:**  
+https://www.linkedin.com/in/gaurav-chauhan18215/
