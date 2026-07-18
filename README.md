@@ -1,57 +1,43 @@
-# ✈️ Airport Operations Performance Dashboard
+# 🌍 World Airports Analysis Dashboard
 
-An interactive **Power BI dashboard** built to analyze airport operations and flight performance. The dashboard provides insights into flight volumes, on-time performance, delays, cancellations, airline performance, and airport activity through interactive visualizations and KPIs.
-
----
-
-## 📌 Project Overview
-
-Airport operations involve monitoring thousands of flights every day. This dashboard consolidates operational data into a single interactive report, enabling users to quickly identify trends, compare airline performance, analyze delays, and monitor airport efficiency.
-
-The project demonstrates how Power BI can transform raw operational data into meaningful business insights.
+An interactive **Power BI dashboard** built to explore and analyze global airport infrastructure. The dashboard provides insights into airport distribution, airport types, runway dimensions, elevation ranges, lighting availability, and scheduled service coverage across airports worldwide.
 
 ---
 
-## 🎯 Business Objectives
+# 📌 Project Overview
 
-- Monitor overall airport operations
-- Track on-time, delayed, and cancelled flights
-- Compare airline performance
-- Analyze airport traffic
-- Identify delay and cancellation trends
-- Provide an interactive dashboard for operational monitoring
+This project analyzes worldwide airport data using Power BI to provide an overview of global airport infrastructure. The dashboard enables users to explore airport characteristics through interactive visualizations, helping identify geographical distribution, airport classifications, runway characteristics, and operational facilities.
+
+The objective is to transform raw airport data into an easy-to-understand analytical dashboard for exploration and decision-making.
 
 ---
 
-## 📊 Key KPIs
+# 🎯 Business Objectives
 
-- Total Flights
-- On-Time Flights
-- Delayed Flights
-- Cancelled Flights
-- On-Time Performance %
-- Delay Percentage
-- Cancellation Rate
-- Flights by Airport
-- Flights by Airline
-- Monthly Flight Trends
+- Analyze the global distribution of airports
+- Compare airport types across the world
+- Understand runway length and width characteristics
+- Explore airport elevation distribution
+- Analyze lighting availability
+- Compare airports with and without scheduled services
 
 ---
 
-## 📈 Dashboard Features
+# 📊 Dashboard Highlights
 
-- Executive KPI Cards
-- Interactive Slicers
-- Airline Performance Analysis
-- Airport Performance Analysis
-- Delay Analysis
-- Cancellation Analysis
-- Monthly Trend Analysis
-- Interactive Charts and Visualizations
+The dashboard includes:
+
+- 🌍 Number of Airports by Country
+- 📍 Global Airport Locations (Latitude & Longitude)
+- 🛬 Runway Length vs Width Analysis
+- 💡 Airports by Lighting Availability
+- ⛰ Airports by Elevation Range
+- 🏢 Airports by Type
+- ✈ Airports by Scheduled Service Availability
 
 ---
 
-## 🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 
 - Microsoft Power BI
 - DAX
@@ -59,66 +45,66 @@ The project demonstrates how Power BI can transform raw operational data into me
 
 ---
 
-## 📂 Dataset
+# 📂 Dataset
 
-The dashboard was developed using a single Excel dataset containing airport operational and flight performance information.
+The dashboard was developed using a single Excel dataset containing worldwide airport information, including airport type, location, runway dimensions, elevation, lighting status, and scheduled service availability.
 
 ---
 
-## 📷 Dashboard Preview
+# 📷 Dashboard Preview
 
 Dashboard screenshots are available in the **images** folder.
 
 ---
 
-## 💡 Business Insights
+# 💡 Key Insights
 
-The dashboard enables users to answer questions such as:
+The dashboard helps answer questions such as:
 
-- Which airports handle the highest flight volume?
-- Which airlines achieve the best on-time performance?
-- What percentage of flights are delayed or cancelled?
-- How do flight operations vary over time?
-- Which airports require operational attention?
+- Which countries have the highest number of airports?
+- What are the most common airport types globally?
+- How are airports distributed across the world?
+- How do runway dimensions vary across airports?
+- What percentage of airports provide scheduled services?
+- How many airports have lighting facilities?
+- How are airports distributed across different elevation ranges?
 
 ---
 
-## 🚀 Skills Demonstrated
+# 🚀 Skills Demonstrated
 
 - Power BI Dashboard Development
 - Data Visualization
-- KPI Design
 - DAX
+- KPI Design
 - Business Intelligence
 - Data Analysis
 - Interactive Reporting
-- Analytical Thinking
+- Geographic Data Visualization
 
 ---
 
-## 📁 Repository Structure
+# 📁 Repository Structure
 
 ```
-Airport-Operations-Performance-Dashboard/
+World-Airports-Analysis/
 │
 ├── airport_project.pbix
 ├── README.md
 └── images/
     ├── dashboard-overview.png
-    ├── airline-performance.png
-    ├── airport-analysis.png
 ```
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Gaurav Chauhan**
 
 Business Analyst | Data Analyst
 
-**GitHub:**  
+**GitHub**  
 https://github.com/gauravchauhan18215-cmyk
 
-**LinkedIn:**  
+**LinkedIn**  
 https://www.linkedin.com/in/gaurav-chauhan18215/
